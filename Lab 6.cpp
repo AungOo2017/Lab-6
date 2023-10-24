@@ -51,7 +51,7 @@ int main()
         }
     }
 
-    // By default, just show the foreground image 
+    // Combine two images together to get a composite image
     RenderWindow window(VideoMode(1024, 768), "Here's the output");
     Sprite sprite1;
     Texture tex1;
