@@ -1,0 +1,4 @@
+﻿  Lab 6.cpp
+C:\Users\aungm\source\repos\Lab 6\Lab 6.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aungm\source\repos\Lab 6\Lab 6.cpp(36,27): warning C4018: '<': signed/unsigned mismatch
+  Lab 6.vcxproj -> C:\Users\aungm\source\repos\Lab 6\x64\Debug\Lab 6.exe
